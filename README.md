@@ -20,7 +20,10 @@ Para instalação da aplicação seguir o seguintes passos
 ```
 
 ## ⚙️ Executando os testes
-Os 
+```
+Os teste foram realizados utilizando TDD e cobriu cerca de 90% do projeto
+
+```
 
 
 ### 🔩 Analise os testes de ponta a ponta
