@@ -13,7 +13,6 @@
 
 
 
--dontwarn javax.activation.**
--dontwarn javax.mail.**
--dontwarn javax.servlet.**
--dontwarn org.apache.**
+### Versões
+
+![Mozilla Add-on](https://img.shields.io/amo/v/teste)
