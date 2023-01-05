@@ -1,7 +1,19 @@
-## Bem vindo ao projeto de Springboot ##
+## Projeto Springboot 
 
 
 
+## 🚀 Começando
 
-Para maiores informações: 
-https://img.shields.io/twitch/status/user?style=social
+
+### 📋 Pré-requisitos
+
+
+
+### 🔧 Instalação
+
+
+
+-dontwarn javax.activation.**
+-dontwarn javax.mail.**
+-dontwarn javax.servlet.**
+-dontwarn org.apache.**
