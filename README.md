@@ -14,8 +14,9 @@
 ```
 Para instalação da aplicação seguir o seguintes passos
 1º instalar as dependências através do comando
- * npm install
-2º rodar projeto através do comando ng serve
+ + npm install
+2º rodar projeto através do comando 
++ ng serve
 
 ```
 
